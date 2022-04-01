@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#perfil{
+    margin: auto;
+    margin-top: 10px;
+    width: 410px;
+    height: 50px;
+    background-color:rgb(44, 141, 73);
+    font-size: bold;
+    text-align: center;
+    color:white;
+}

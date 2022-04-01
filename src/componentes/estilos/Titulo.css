@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#titulo{
+    margin: auto;
+    margin-top: 10px;
+    width: 410px;
+    height: 50px;
+    background-color:rgb(164, 231, 101);
+    font-size: bold;
+    text-align: center;
+    color:white;
+}
+
